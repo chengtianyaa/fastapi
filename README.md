@@ -375,7 +375,7 @@ item: Item
 
 ---
 
-Coming back to the previous code example, **FastAPI** will:
+coming back to the previous code example, **FastAPI** will:
 
 * Validate that there is an `item_id` in the path for `GET` and `PUT` requests.
 * Validate that the `item_id` is of type `int` for `GET` and `PUT` requests.
